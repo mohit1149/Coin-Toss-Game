@@ -1,0 +1,47 @@
+.bg-container {
+  width: 80%;
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bg-card {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  border-radius: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.heading {
+  color: #a35200;
+  font-size: 40px;
+  font-family: 'Roboto';
+}
+.paragraph {
+  color: #334155;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.front-image {
+  height: 30vh;
+  width: 15vw;
+}
+.button {
+  background-color: #f9d423;
+  color: #a35200;
+  border-width: 0px;
+  padding: 10px;
+  border-radius: 4px;
+}
+.bottom-container {
+  display: flex;
+}
+.totalParagraph {
+  color: #475569;
+  margin-right: 25px;
+}
